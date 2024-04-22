@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: nothing at the moment
 - 📫 How to reach me: TTV/PhillyMcCheesesteak
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Fumo
+- ⚡ Fun fact: I'm using tilt controls!
 
 <!---
 PhillyMcCheesesteak/PhillyMcCheesesteak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
